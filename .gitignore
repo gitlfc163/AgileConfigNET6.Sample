@@ -3,3 +3,7 @@
 
 # Ada Library Information
 *.ali
+/.vs/AgileConfigNET6.Sample
+/AgileConfigNET6.Sample/bin/Debug/net6.0
+/AgileConfigNET6.Sample/obj
+/AgileConfigNET6.Sample/AgileConfigNET6.Sample.agileconfig.client.configs.cache

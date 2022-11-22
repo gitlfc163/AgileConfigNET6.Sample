@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AgileConfig.Client" Version="1.6.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties agileconfignet6_1sample_1agileconfig_1client_1configs_1cache__JsonSchema="https://beaujs.com/schema.json" /></VisualStudio></ProjectExtensions>
+
+</Project>
